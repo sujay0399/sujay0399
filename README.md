@@ -12,8 +12,8 @@
 <br>
 
 ### Public Profiles
-https://twitter.com/sujay0399
-https://tryhackme.com/p/sujayreddy
+- https://twitter.com/sujay0399
+- https://tryhackme.com/p/sujayreddy
 
 
 <br>
