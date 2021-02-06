@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hi There Myself Sujay 👋
 
-<!--
-**sujay0399/sujay0399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am a Web-Developer and Cyber Security Enthausist
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🚩 I love to Playing CTF's
+- 👾 I'm interested in Cyber Security and Web-Development
+- 🌱 I’m learning to automate boring Stuffs💻 
+- 📜 I write Codes Sometimes.......
+
+
+
+<br>
+
+### Connect with me:
+
+[<img align="left" alt="VulnFreak | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br>
+<br>
+<br>
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=sujay0399&?count_private=true&show_icons=true&theme=dark&include_all_commits=true" />
+</div>
+
+[twitter]: https://twitter.com/sujay0399
